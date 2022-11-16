@@ -13,7 +13,7 @@ You can find a dictionary below:
 | Equilibrium of a bottle               | EquilibrioBottiglia   |
 | Seating arrangement in a classroom    | Seating Arrangement   |
 | PDF scraping for the sales department | MRN_Reader            |
-| Portfolio management game             | PTF management game   |
+| Portfolio management game             | Starting Finance      |
 | Tournaments generator                 | CRChampionship        |
 | Wolfram Alpha simulator               | _Not present_         |
 | Projectile motion                     | BulletFlight          |

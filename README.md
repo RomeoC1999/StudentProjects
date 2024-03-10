@@ -2,7 +2,7 @@
 Repository containing all the projects I've worked on during my student years
 
 
-Some names are different than the ones I used in the documentation
+Some names are different than the ones I used in the documentation (https://drive.google.com/file/d/1V8sp1kVmZt8eXL2YqJBluLaIQhpgPMv3/view)
 
 You can find a dictionary below:
 
